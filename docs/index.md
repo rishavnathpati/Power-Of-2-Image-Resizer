@@ -1,6 +1,6 @@
-# GameImageResizer Documentation
+# Power Of 2 Image Resizer Documentation
 
-Welcome to the GameImageResizer documentation. This tool helps you resize images to the nearest power of 2 dimensions, making them suitable for use in game engines.
+Welcome to the Power Of 2 Image Resizer documentation. This tool helps you resize images to the nearest power of 2 dimensions, making them suitable for use in game engines.
 
 ## Table of Contents
 

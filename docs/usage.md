@@ -1,13 +1,13 @@
-# GameImageResizer Usage Guide
+# Power Of 2 Image Resizer Usage Guide
 
 ## Installation
 
-Follow these steps to install GameImageResizer:
+Follow these steps to install Power Of 2 Image Resizer:
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/GameImageResizer.git
-    cd GameImageResizer
+    git clone https://github.com/yourusername/Power Of 2 Image Resizer.git
+    cd Power Of 2 Image Resizer
     ```
 
 2. **Install the Dependencies**:
@@ -43,7 +43,7 @@ Follow these steps to install GameImageResizer:
 
 ### Configuration via `config.txt`
 
-You can configure GameImageResizer by editing the `config.txt` file in the root directory. The following settings are available:
+You can configure Power Of 2 Image Resizer by editing the `config.txt` file in the root directory. The following settings are available:
 
 - **THRESHOLD**: The threshold for resizing. This determines how close the image size should be to the power of 2 size before resizing (default is `0.25`).
 - **COMPRESSION**: The compression level for saving images. This affects the output quality of the resized images (default is `0`).
@@ -72,8 +72,8 @@ Contributions are welcome! Please follow these guidelines:
 
 2. **Clone Your Fork**:
     ```sh
-    git clone https://github.com/yourusername/GameImageResizer.git
-    cd GameImageResizer
+    git clone https://github.com/yourusername/Power Of 2 Image Resizer.git
+    cd Power Of 2 Image Resizer
     ```
 
 3. **Create a Branch**:
@@ -111,4 +111,4 @@ Please read the [contributing guidelines](CONTRIBUTING.md) for more details.
 This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
 ```
 
-This file provides a comprehensive guide for users and contributors, covering all essential aspects of using and contributing to the GameImageResizer project.
+This file provides a comprehensive guide for users and contributors, covering all essential aspects of using and contributing to the Power Of 2 Image Resizer project.

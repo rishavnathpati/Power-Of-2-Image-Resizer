@@ -168,7 +168,7 @@ def show_config_window():
 
 if __name__ == "__main__":
     root = Tk()
-    root.title("GameImageResizer")
+    root.title("Power Of 2 Image Resizer")
 
     file_path = StringVar()
     status_label = StringVar()

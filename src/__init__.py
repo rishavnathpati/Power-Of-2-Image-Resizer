@@ -1,7 +1,7 @@
 # src/__init__.py
 
 """
-GameImageResizer Package Initialization
+Power Of 2 Image Resizer Package Initialization
 
 This package provides tools for resizing images to the nearest power of 2 dimensions.
 """
